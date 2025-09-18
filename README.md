@@ -21,6 +21,17 @@ This kit provides a **single command-line interface** to manage all your AI appl
 - 🛑 **Clean shutdowns** - Stop all AI services properly
 - 📊 **Monitor everything** - See what's running and storage usage
 
+## 🚨 Project Status
+
+This is a personal tool that I'm sharing as-is. **I do not actively maintain or support this project.**
+
+- ✅ Feel free to fork and modify for your own use
+- ✅ Submit pull requests if you want (no guarantee of response)
+- ❌ I don't provide support or answer issues
+- ❌ No guarantees of updates or bug fixes
+
+Use at your own risk. The MIT license covers the terms.
+
 ## 🌟 What This Script Does
 
 A comprehensive command-line launcher and management system for AI models on macOS, designed to work seamlessly with external SSD storage. This script provides an elegant interface to launch and manage **Ollama**, **OpenWebUI**, and **LM Studio** applications while keeping your valuable AI models on external storage to save internal disk space.
@@ -473,4 +484,4 @@ Having issues? Check:
 
 ## ⭐ Star this repo if it helps you manage your AI models efficiently!
 
-**Made with ❤️ for the AI community**
+**Made with ❤️ and 🍜 for the AI community**
